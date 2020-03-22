@@ -1,0 +1,37 @@
+<style>
+				body {font-family: Calibri;}
+			*	{background-color: purple;
+				color: white;
+				}
+				h1	{
+					background-color: white;
+					color: black;
+					font-size: 22px;
+					padding: 10px;
+					text-align: center;
+					}
+					
+				p,h2,h3	{
+					background-color: mediumseagreen;
+					text-align: center;
+					color: white;
+					}
+				#div.text {
+					text-align: left;
+					}
+		
+				li	{
+					width: 15em;
+					text-align: center;
+					}
+				
+				a			{padding: .1em;}
+				a:focus		{background-color: red; color: white;}
+				a:hover		{background-color: pink; color: black;}
+				a:active	{background-color: orange; color: white;}
+				
+				.back		{font-family: Gilroy; font-size: 15px}
+				.head		{color: red;}
+				.text		{color: blue;}
+				div.text	{color: white;}
+</style>
