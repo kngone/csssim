@@ -1,0 +1,20 @@
+<style>
+
+a	{
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	background-color: silver;
+	color: black;
+	display: block;
+	width: 100px;
+	padding: 10px;
+	margin-bottom: 2px; 
+	}
+
+a:hover	{
+		background-color: red;
+		color: white;
+		}
+
+</style>
